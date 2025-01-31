@@ -390,6 +390,7 @@ nav{
 .model-languages{
     display: flex;
     flex-wrap: wrap;
+    scale:0.85;
 }
 
 .model-language{
